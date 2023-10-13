@@ -6,6 +6,8 @@ Welcome to the Horse Race repository! This project is a simple horse race game i
 
 Check out the live demo [here](https://kaadirm.github.io/Horse-Race/).
 
+![HorseRace1](https://github.com/Kaadirm/Horse-Race/assets/141996672/761d410e-4fcf-46a7-8b67-a3a99d4d6c44)
+
 ## Features
 
 - DOM manipulation: The game is built by manipulating HTML elements with JavaScript to create a dynamic and interactive user interface.
